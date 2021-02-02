@@ -1,5 +1,3 @@
-Local Change #1
+Remote Change #1
 
-Local Change #2
-
-Local Change #3
+Local Remote Change #1
