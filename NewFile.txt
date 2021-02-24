@@ -1,3 +1,4 @@
 Local Change #1
 Remote change #1
 Local Change #2
+Local Change after new folder
